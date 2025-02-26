@@ -1,7 +1,7 @@
 ## Hi there 👋
                                                            Hello, It's MAUREEN-OKEYO
 # 💫 About Me:
-🔭 I’m currently working on PYTHON<br>👯 I’m looking to collaborate on music streaming app<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Javascript<br>💬 Ask me about System Dev <br>⚡ Fun fact
+🔭 I’m currently working on REACT<br>👯 I’m looking to collaborate on music streaming app<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Javascript<br>💬 Ask me about System Dev <br>⚡ Fun fact
 
 
 ## 🌐 Socials:
